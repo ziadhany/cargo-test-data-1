@@ -1,0 +1,4 @@
+- pkg:cargo/yb-postgres@0.19.7-yb-1-beta
+- pkg:cargo/yb-postgres@0.19.7-yb-1-beta.1
+- pkg:cargo/yb-postgres@0.19.7-yb-1-beta.2
+- pkg:cargo/yb-postgres@0.19.7-yb-1-beta.3

@@ -1,0 +1,5 @@
+- pkg:cargo/fusio-opendal@0.1.0
+- pkg:cargo/fusio-opendal@0.3.4
+- pkg:cargo/fusio-opendal@0.3.5
+- pkg:cargo/fusio-opendal@0.4.0
+- pkg:cargo/fusio-opendal@0.4.1

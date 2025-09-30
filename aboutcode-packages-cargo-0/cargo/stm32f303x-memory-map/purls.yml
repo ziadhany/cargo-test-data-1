@@ -1,0 +1,2 @@
+- pkg:cargo/stm32f303x-memory-map@0.1.0
+- pkg:cargo/stm32f303x-memory-map@0.1.1

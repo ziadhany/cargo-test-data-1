@@ -1,0 +1,13 @@
+- pkg:cargo/datafusion-sqllogictest@43.0.0
+- pkg:cargo/datafusion-sqllogictest@44.0.0
+- pkg:cargo/datafusion-sqllogictest@42.2.0
+- pkg:cargo/datafusion-sqllogictest@45.0.0
+- pkg:cargo/datafusion-sqllogictest@46.0.0
+- pkg:cargo/datafusion-sqllogictest@46.0.1
+- pkg:cargo/datafusion-sqllogictest@47.0.0
+- pkg:cargo/datafusion-sqllogictest@48.0.0
+- pkg:cargo/datafusion-sqllogictest@48.0.1
+- pkg:cargo/datafusion-sqllogictest@49.0.0
+- pkg:cargo/datafusion-sqllogictest@49.0.1
+- pkg:cargo/datafusion-sqllogictest@49.0.2
+- pkg:cargo/datafusion-sqllogictest@50.0.0

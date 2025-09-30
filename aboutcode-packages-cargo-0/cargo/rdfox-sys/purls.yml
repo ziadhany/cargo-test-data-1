@@ -1,0 +1,4 @@
+- pkg:cargo/rdfox-sys@0.0.1
+- pkg:cargo/rdfox-sys@0.0.2
+- pkg:cargo/rdfox-sys@0.0.3
+- pkg:cargo/rdfox-sys@0.0.6

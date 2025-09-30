@@ -1,0 +1,12 @@
+- pkg:cargo/concordium-cis2@1.0.0
+- pkg:cargo/concordium-cis2@1.1.0
+- pkg:cargo/concordium-cis2@1.2.0
+- pkg:cargo/concordium-cis2@2.0.0
+- pkg:cargo/concordium-cis2@3.0.0
+- pkg:cargo/concordium-cis2@3.1.0
+- pkg:cargo/concordium-cis2@4.0.0
+- pkg:cargo/concordium-cis2@5.0.0
+- pkg:cargo/concordium-cis2@5.1.0
+- pkg:cargo/concordium-cis2@6.0.0
+- pkg:cargo/concordium-cis2@6.1.0
+- pkg:cargo/concordium-cis2@6.2.0
