@@ -1,0 +1,5 @@
+- pkg:cargo/ironcore-alloy@0.10.0
+- pkg:cargo/ironcore-alloy@0.10.2
+- pkg:cargo/ironcore-alloy@0.11.2
+- pkg:cargo/ironcore-alloy@0.12.1
+- pkg:cargo/ironcore-alloy@0.13.0

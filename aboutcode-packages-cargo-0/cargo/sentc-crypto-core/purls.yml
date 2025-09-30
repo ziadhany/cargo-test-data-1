@@ -1,0 +1,4 @@
+- pkg:cargo/sentc-crypto-core@0.8.0
+- pkg:cargo/sentc-crypto-core@0.10.0
+- pkg:cargo/sentc-crypto-core@0.14.0
+- pkg:cargo/sentc-crypto-core@0.15.0

@@ -1,0 +1,12 @@
+- pkg:cargo/xorsum@0.0.0
+- pkg:cargo/xorsum@0.0.1
+- pkg:cargo/xorsum@1.0.0
+- pkg:cargo/xorsum@2.0.0
+- pkg:cargo/xorsum@3.0.0
+- pkg:cargo/xorsum@3.1.0
+- pkg:cargo/xorsum@3.1.1
+- pkg:cargo/xorsum@3.1.3
+- pkg:cargo/xorsum@3.1.5
+- pkg:cargo/xorsum@3.1.6
+- pkg:cargo/xorsum@3.1.7
+- pkg:cargo/xorsum@4.0.0
