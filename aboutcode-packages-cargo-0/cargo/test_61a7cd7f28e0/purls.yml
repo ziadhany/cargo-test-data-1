@@ -1,0 +1,5 @@
+- pkg:cargo/test_61a7cd7f28e0@0.1.0-nodocsrssettings
+- pkg:cargo/test_61a7cd7f28e0@0.1.0-withdocsrssettings
+- pkg:cargo/test_61a7cd7f28e0@0.1.1-withdocsrssettings
+- pkg:cargo/test_61a7cd7f28e0@0.1.2-withdocsrssettings
+- pkg:cargo/test_61a7cd7f28e0@0.1.3-withoutpathdeps

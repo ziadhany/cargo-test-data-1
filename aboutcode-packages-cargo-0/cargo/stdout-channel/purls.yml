@@ -1,0 +1,14 @@
+- pkg:cargo/stdout-channel@0.4.0
+- pkg:cargo/stdout-channel@0.4.1
+- pkg:cargo/stdout-channel@0.4.4
+- pkg:cargo/stdout-channel@0.4.5
+- pkg:cargo/stdout-channel@0.4.6
+- pkg:cargo/stdout-channel@0.4.7
+- pkg:cargo/stdout-channel@0.5.0
+- pkg:cargo/stdout-channel@0.5.1
+- pkg:cargo/stdout-channel@0.5.2
+- pkg:cargo/stdout-channel@0.5.3
+- pkg:cargo/stdout-channel@0.6.0
+- pkg:cargo/stdout-channel@0.6.1
+- pkg:cargo/stdout-channel@0.6.2
+- pkg:cargo/stdout-channel@0.6.3

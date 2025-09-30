@@ -1,0 +1,2 @@
+- pkg:cargo/alexcrichton-cranelift-wasm@0.52.0
+- pkg:cargo/alexcrichton-cranelift-wasm@0.53.0

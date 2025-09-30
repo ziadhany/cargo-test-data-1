@@ -1,0 +1,2 @@
+- pkg:cargo/stm32wb-stm32hal@0.13.0
+- pkg:cargo/stm32wb-stm32hal@0.13.1
