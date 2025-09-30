@@ -1,0 +1,6 @@
+- pkg:cargo/staging-kusama-runtime@0.0.0
+- pkg:cargo/staging-kusama-runtime@0.1.0-dev.6
+- pkg:cargo/staging-kusama-runtime@1.0.0
+- pkg:cargo/staging-kusama-runtime@2.0.0
+- pkg:cargo/staging-kusama-runtime@3.0.0-dev.1
+- pkg:cargo/staging-kusama-runtime@3.0.0

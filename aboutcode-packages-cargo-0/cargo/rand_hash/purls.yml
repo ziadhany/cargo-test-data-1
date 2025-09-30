@@ -1,0 +1,4 @@
+- pkg:cargo/rand_hash@0.1.0-rc1
+- pkg:cargo/rand_hash@0.1.0-rc2
+- pkg:cargo/rand_hash@0.1.0
+- pkg:cargo/rand_hash@0.1.1

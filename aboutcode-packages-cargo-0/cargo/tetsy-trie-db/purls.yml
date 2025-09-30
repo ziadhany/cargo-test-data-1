@@ -1,0 +1,4 @@
+- pkg:cargo/tetsy-trie-db@0.20.0
+- pkg:cargo/tetsy-trie-db@0.19.2
+- pkg:cargo/tetsy-trie-db@0.22.2
+- pkg:cargo/tetsy-trie-db@0.22.3
