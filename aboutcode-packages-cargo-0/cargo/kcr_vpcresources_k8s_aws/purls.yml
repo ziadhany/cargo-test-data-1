@@ -1,0 +1,8 @@
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250406.162659
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250413.162938
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250420.162741
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250511.162912
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250525.163023
+- pkg:cargo/kcr_vpcresources_k8s_aws@1.20250824.162926
+- pkg:cargo/kcr_vpcresources_k8s_aws@2.20250914.162547
+- pkg:cargo/kcr_vpcresources_k8s_aws@2.20250928.162707

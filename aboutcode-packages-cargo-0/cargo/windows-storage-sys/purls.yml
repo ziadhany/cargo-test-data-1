@@ -1,0 +1,2 @@
+- pkg:cargo/windows-storage-sys@0.0.2
+- pkg:cargo/windows-storage-sys@0.23.0

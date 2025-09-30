@@ -1,0 +1,3 @@
+- pkg:cargo/geng-ecs@0.8.0
+- pkg:cargo/geng-ecs@0.9.0
+- pkg:cargo/geng-ecs@0.11.0
