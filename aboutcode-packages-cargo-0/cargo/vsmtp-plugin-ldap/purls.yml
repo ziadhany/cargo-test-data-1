@@ -1,0 +1,3 @@
+- pkg:cargo/vsmtp-plugin-ldap@2.1.2
+- pkg:cargo/vsmtp-plugin-ldap@2.2.0
+- pkg:cargo/vsmtp-plugin-ldap@2.2.1

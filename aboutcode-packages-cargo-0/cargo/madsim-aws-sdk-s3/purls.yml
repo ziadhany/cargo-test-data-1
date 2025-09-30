@@ -1,0 +1,9 @@
+- pkg:cargo/madsim-aws-sdk-s3@0.2.15
+- pkg:cargo/madsim-aws-sdk-s3@0.2.16
+- pkg:cargo/madsim-aws-sdk-s3@0.2.17
+- pkg:cargo/madsim-aws-sdk-s3@0.2.23%2B0.28
+- pkg:cargo/madsim-aws-sdk-s3@0.2.24%2B0.28
+- pkg:cargo/madsim-aws-sdk-s3@0.2.25%2B0.28
+- pkg:cargo/madsim-aws-sdk-s3@0.3.0%2B0.35
+- pkg:cargo/madsim-aws-sdk-s3@0.4.0%2B0.39
+- pkg:cargo/madsim-aws-sdk-s3@0.5.0%2B1

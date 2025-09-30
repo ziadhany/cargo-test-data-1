@@ -1,0 +1,15 @@
+- pkg:cargo/hickory-resolver@0.1.0
+- pkg:cargo/hickory-resolver@0.24.0
+- pkg:cargo/hickory-resolver@0.24.1
+- pkg:cargo/hickory-resolver@0.25.0-alpha.1
+- pkg:cargo/hickory-resolver@0.25.0-alpha.2
+- pkg:cargo/hickory-resolver@0.25.0-alpha.3
+- pkg:cargo/hickory-resolver@0.25.0-alpha.4
+- pkg:cargo/hickory-resolver@0.24.2
+- pkg:cargo/hickory-resolver@0.25.0-alpha.5
+- pkg:cargo/hickory-resolver@0.24.3
+- pkg:cargo/hickory-resolver@0.24.4
+- pkg:cargo/hickory-resolver@0.25.0
+- pkg:cargo/hickory-resolver@0.25.1
+- pkg:cargo/hickory-resolver@0.25.2
+- pkg:cargo/hickory-resolver@0.26.0-alpha.1
