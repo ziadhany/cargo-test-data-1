@@ -1,0 +1,14 @@
+- pkg:cargo/slog-extlog-derive@3.1.0
+- pkg:cargo/slog-extlog-derive@3.2.0
+- pkg:cargo/slog-extlog-derive@4.0.0
+- pkg:cargo/slog-extlog-derive@4.1.0
+- pkg:cargo/slog-extlog-derive@5.0.0
+- pkg:cargo/slog-extlog-derive@5.1.0
+- pkg:cargo/slog-extlog-derive@5.2.0
+- pkg:cargo/slog-extlog-derive@5.2.1
+- pkg:cargo/slog-extlog-derive@5.3.0
+- pkg:cargo/slog-extlog-derive@6.0.0
+- pkg:cargo/slog-extlog-derive@6.0.1
+- pkg:cargo/slog-extlog-derive@7.0.0
+- pkg:cargo/slog-extlog-derive@8.0.0
+- pkg:cargo/slog-extlog-derive@8.1.0

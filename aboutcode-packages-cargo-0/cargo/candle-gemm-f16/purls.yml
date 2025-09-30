@@ -1,0 +1,3 @@
+- pkg:cargo/candle-gemm-f16@0.15.5
+- pkg:cargo/candle-gemm-f16@0.15.6
+- pkg:cargo/candle-gemm-f16@0.16.0

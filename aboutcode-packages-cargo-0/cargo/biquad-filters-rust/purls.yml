@@ -1,0 +1,5 @@
+- pkg:cargo/biquad-filters-rust@0.0.7
+- pkg:cargo/biquad-filters-rust@0.1.0
+- pkg:cargo/biquad-filters-rust@0.1.1
+- pkg:cargo/biquad-filters-rust@0.1.2
+- pkg:cargo/biquad-filters-rust@0.1.3

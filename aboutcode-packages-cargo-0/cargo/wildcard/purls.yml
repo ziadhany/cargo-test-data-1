@@ -1,0 +1,4 @@
+- pkg:cargo/wildcard@0.0.0-pre
+- pkg:cargo/wildcard@0.1.0
+- pkg:cargo/wildcard@0.2.0
+- pkg:cargo/wildcard@0.3.0

@@ -1,0 +1,4 @@
+- pkg:cargo/mu_uefi_perf_timer@2.0.0
+- pkg:cargo/mu_uefi_perf_timer@3.0.0
+- pkg:cargo/mu_uefi_perf_timer@3.0.1
+- pkg:cargo/mu_uefi_perf_timer@3.0.2
