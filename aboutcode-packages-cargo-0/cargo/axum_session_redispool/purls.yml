@@ -1,0 +1,10 @@
+- pkg:cargo/axum_session_redispool@0.1.0
+- pkg:cargo/axum_session_redispool@0.1.1
+- pkg:cargo/axum_session_redispool@0.2.0
+- pkg:cargo/axum_session_redispool@0.2.1
+- pkg:cargo/axum_session_redispool@0.3.0
+- pkg:cargo/axum_session_redispool@0.4.0
+- pkg:cargo/axum_session_redispool@0.4.1
+- pkg:cargo/axum_session_redispool@0.5.0
+- pkg:cargo/axum_session_redispool@0.6.0
+- pkg:cargo/axum_session_redispool@0.7.0

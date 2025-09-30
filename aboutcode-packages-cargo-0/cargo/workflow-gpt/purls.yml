@@ -1,0 +1,10 @@
+- pkg:cargo/workflow-gpt@0.0.0
+- pkg:cargo/workflow-gpt@0.13.0
+- pkg:cargo/workflow-gpt@0.13.1
+- pkg:cargo/workflow-gpt@0.13.2
+- pkg:cargo/workflow-gpt@0.13.3
+- pkg:cargo/workflow-gpt@0.14.0
+- pkg:cargo/workflow-gpt@0.14.1
+- pkg:cargo/workflow-gpt@0.15.0
+- pkg:cargo/workflow-gpt@0.17.0
+- pkg:cargo/workflow-gpt@0.18.0

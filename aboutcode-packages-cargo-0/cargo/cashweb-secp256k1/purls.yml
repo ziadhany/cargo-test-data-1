@@ -1,0 +1,5 @@
+- pkg:cargo/cashweb-secp256k1@0.17.2
+- pkg:cargo/cashweb-secp256k1@0.17.3
+- pkg:cargo/cashweb-secp256k1@0.19.0
+- pkg:cargo/cashweb-secp256k1@0.20.0
+- pkg:cargo/cashweb-secp256k1@0.19.1

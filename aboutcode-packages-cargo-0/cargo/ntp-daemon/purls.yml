@@ -1,0 +1,11 @@
+- pkg:cargo/ntp-daemon@0.3.0-alpha.0
+- pkg:cargo/ntp-daemon@0.3.0-alpha.1
+- pkg:cargo/ntp-daemon@0.3.0-alpha.2
+- pkg:cargo/ntp-daemon@0.3.0-alpha.3
+- pkg:cargo/ntp-daemon@0.3.0-alpha.4
+- pkg:cargo/ntp-daemon@0.3.1
+- pkg:cargo/ntp-daemon@0.3.2
+- pkg:cargo/ntp-daemon@0.3.3
+- pkg:cargo/ntp-daemon@0.3.5
+- pkg:cargo/ntp-daemon@0.3.6
+- pkg:cargo/ntp-daemon@0.3.7

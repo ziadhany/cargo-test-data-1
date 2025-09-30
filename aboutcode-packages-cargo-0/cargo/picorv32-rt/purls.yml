@@ -1,0 +1,4 @@
+- pkg:cargo/picorv32-rt@0.5.0
+- pkg:cargo/picorv32-rt@0.5.1
+- pkg:cargo/picorv32-rt@0.5.2
+- pkg:cargo/picorv32-rt@0.5.3
